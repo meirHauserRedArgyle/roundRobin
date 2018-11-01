@@ -1,0 +1,348 @@
+[
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1541087859593,
+            "changeTime": 1541087859593,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1541087859593,
+            "changeTime": 1541087859593,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1541088714347,
+            "changeTime": 1541088714347,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1541087859593,
+            "changeTime": 1541087859593,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin",
+        {
+            "state": "n",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1541088144284,
+            "changeTime": 1541088144284,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin__c/Round_Robin__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin__c/Round_Robin__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2026,
+            "modifiedTime": 1541088714328,
+            "changeTime": 1541088714328,
+            "contentHash": "33de96f51d1c717834c091ac47e3d18389ab921c"
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin__c/fields/Criteria__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin__c/fields/Criteria__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 362,
+            "modifiedTime": 1541088714329,
+            "changeTime": 1541088714329,
+            "contentHash": "c78d6aef201904db8047cbef9ffabfb0a0511c5e"
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin__c/fields/Object__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin__c/fields/Object__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 407,
+            "modifiedTime": 1541088714329,
+            "changeTime": 1541088714329,
+            "contentHash": "54839866fca2e624bfa5babda8a26cfb8b57844d"
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin_Member__c/Round_Robin_Member__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin_Member__c/Round_Robin_Member__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2056,
+            "modifiedTime": 1541088714338,
+            "changeTime": 1541088714338,
+            "contentHash": "7af68ff3ae15c82acb0840ca29103c5d6d6211f2"
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin_Member__c/fields/Active__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin_Member__c/fields/Active__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 318,
+            "modifiedTime": 1541088714338,
+            "changeTime": 1541088714338,
+            "contentHash": "cf0bf4ca0117341e4599b0b70fdebd9633918894"
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin_Member__c/fields/Contact__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin_Member__c/fields/Contact__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 522,
+            "modifiedTime": 1541088714339,
+            "changeTime": 1541088714339,
+            "contentHash": "ba6152e0f482e48652d308b3c7de9567eb21fd17"
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin_Member__c/fields/Last_Assigned__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin_Member__c/fields/Last_Assigned__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 324,
+            "modifiedTime": 1541088714339,
+            "changeTime": 1541088714339,
+            "contentHash": "4a0d3b08dba6c319fa4f3bd323cf7ed75e2cbf99"
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin_Member__c/fields/Round_Robin__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin_Member__c/fields/Round_Robin__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 632,
+            "modifiedTime": 1541088714339,
+            "changeTime": 1541088714339,
+            "contentHash": "c26fc0733ef2fcebd40a76ac85728f31ada2410f"
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/layouts/Round_Robin_Member__c-Round Robin Member Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/layouts/Round_Robin_Member__c-Round Robin Member Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2350,
+            "modifiedTime": 1541088714342,
+            "changeTime": 1541088714342,
+            "contentHash": "6ce3ba1d8a819be306c11463dc33d88cd87fc5cc"
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/layouts/Round_Robin__c-Round Robin Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/layouts/Round_Robin__c-Round Robin Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2362,
+            "modifiedTime": 1541088714344,
+            "changeTime": 1541088714344,
+            "contentHash": "dfb89aa5935abbcda3c8e50607add6835394df11"
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5282,
+            "modifiedTime": 1541088714348,
+            "changeTime": 1541088714348,
+            "contentHash": "dbb7e335fa6df057dde108fc8ff2aedb2d75c167"
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5282,
+            "modifiedTime": 1541088714351,
+            "changeTime": 1541088714351,
+            "contentHash": "dbb7e335fa6df057dde108fc8ff2aedb2d75c167"
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5620,
+            "modifiedTime": 1541088714354,
+            "changeTime": 1541088714354,
+            "contentHash": "7ad4fb89e0917f5fc959d0fb844daafea3cc3530"
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19499,
+            "modifiedTime": 1541088714363,
+            "changeTime": 1541088714363,
+            "contentHash": "443640d8023466cb6ab0a6dde1d4a520f9b9ca64"
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1541088714329,
+            "changeTime": 1541088714329,
+            "contentHash": "a2f2334e42a9e1789cd6d0118d85e28ad4f3878a"
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1541088714338,
+            "changeTime": 1541088714338,
+            "contentHash": "6ce25824bf60a4b018c2a71a231898dee6ba11c5"
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1541088714329,
+            "changeTime": 1541088714329,
+            "contentHash": "85895ff96491b80bd6dd44b549b28ab7f75d2d92"
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin_Member__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin_Member__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1541088714338,
+            "changeTime": 1541088714338,
+            "contentHash": "df5a9e44a78b90c2737f6e77a9961aedc384d50f"
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin_Member__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/objects/Round_Robin_Member__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1541088714339,
+            "changeTime": 1541088714339,
+            "contentHash": "3b355d354b34a216a3cd4eca66231c74903a2755"
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1541088714344,
+            "changeTime": 1541088714344,
+            "contentHash": "341839e28346087ef275ca5ee33b4725bc5eddc8"
+        }
+    ],
+    [
+        "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1541088714363,
+            "changeTime": 1541088714363,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
