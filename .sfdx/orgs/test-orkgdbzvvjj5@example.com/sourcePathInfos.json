@@ -373,14 +373,14 @@
     [
         "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/classes/RoundRobin.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/classes/RoundRobin.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 829,
             "modifiedTime": 1541093766176,
             "changeTime": 1541093766176,
-            "contentHash": "63479dec382eb8e3b0c703b1c3b5c8595df26af4"
+            "contentHash": "63479dec382eb8e3b0c703b1c3b5c8595df26af4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -399,14 +399,14 @@
     [
         "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/classes/RoundRobinService.cls",
         {
+            "state": "u",
             "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/classes/RoundRobinService.cls",
             "isDirectory": false,
-            "size": 385,
-            "modifiedTime": 1541091412569,
-            "changeTime": 1541091412569,
-            "contentHash": "062f0956942a55bbae13f1817c897bd9fc8defd5",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 389,
+            "modifiedTime": 1541095218549,
+            "changeTime": 1541095218549,
+            "contentHash": "b8a777bd51a4fc8690fe6131e979b69292cde883"
         }
     ],
     [
