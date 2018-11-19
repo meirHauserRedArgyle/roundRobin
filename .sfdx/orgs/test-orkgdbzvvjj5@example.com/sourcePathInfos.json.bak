@@ -377,10 +377,10 @@
             "sourcePath": "/Users/meirhauser/Documents/sfdx/roundRobin/force-app/main/default/classes/RoundRobin.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1288,
-            "modifiedTime": 1541169200744,
-            "changeTime": 1541169200744,
-            "contentHash": "801d19523f353b6cbd86dca8ebd2953384705910"
+            "size": 2680,
+            "modifiedTime": 1541171440146,
+            "changeTime": 1541171440146,
+            "contentHash": "4277eb571c07082d9ee19b4e9d5d87d505a88e0a"
         }
     ],
     [

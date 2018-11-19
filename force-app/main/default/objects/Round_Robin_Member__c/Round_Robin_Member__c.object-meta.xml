@@ -53,8 +53,9 @@
     <enableStreamingApi>true</enableStreamingApi>
     <label>Round Robin Member</label>
     <nameField>
+        <displayFormat>RRM # {0000}</displayFormat>
         <label>Round Robin Member Name</label>
-        <type>Text</type>
+        <type>AutoNumber</type>
     </nameField>
     <pluralLabel>Round Robin Members</pluralLabel>
     <searchLayouts/>
